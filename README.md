@@ -14,7 +14,7 @@
 </p>
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
-  
+<p align="center">  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,6 +32,6 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Stimulusjs](https://img.shields.io/badge/stimulus-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
-</p>    
+</p>
 
 
