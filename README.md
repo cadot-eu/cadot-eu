@@ -16,8 +16,18 @@
 
 <h2 align="center">🏆 Featured Projects</h2>
 <div align="center">
-  
+
 [![Symfony Base Template](https://github-readme-stats.vercel.app/api/pin/?username=cadot-eu&repo=base&theme=dark)](https://github.com/cadot-eu/base)
+[![DEBS](https://github-readme-stats.vercel.app/api/pin/?username=cadot-eu&repo=debs&theme=dark)](https://github.com/cadot-eu/debs)
+
+[![Docker Symfony Generator](https://github-readme-stats.vercel.app/api/pin/?username=cadot-eu&repo=generate_docker_image_symfony&theme=dark)](https://github.com/cadot-eu/generate_docker_image_symfony)
+[![Cours Tablo](https://github-readme-stats.vercel.app/api/pin/?username=cadot-eu&repo=cours_tablo&theme=dark)](https://github.com/cadot-eu/cours_tablo)
+
+[![Tuya Domotics](https://github-readme-stats.vercel.app/api/pin/?username=cadot-eu&repo=tuyadomotic&theme=dark)](https://github.com/cadot-eu/tuyadomotic)
+[![CV Generator](https://github-readme-stats.vercel.app/api/pin/?username=cadot-eu&repo=cv&theme=dark)](https://github.com/cadot-eu/cv)
+
+[![LinkedIn to Resume](https://github-readme-stats.vercel.app/api/pin/?username=cadot-eu&repo=linkedinToResume&theme=dark)](https://github.com/cadot-eu/linkedinToResume)
+[![Huawei Santé](https://github-readme-stats.vercel.app/api/pin/?username=cadot-eu&repo=huawei_sante&theme=dark)](https://github.com/cadot-eu/huawei_sante)
 
 </div>
 
