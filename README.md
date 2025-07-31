@@ -1,6 +1,6 @@
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>Three collaborators with the last technologies for make your dream ;-)
+  <samp>Symfony-focused web developer with a passion for real-time apps (MQTT), modern frontend (Stimulus, Turbo), and AI-driven automation. I love crafting scalable backends, tinkering with IoT/robotics, and turning ideas into functional, clean-code projects. 
   </samp>
 <br>  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
 </p>
